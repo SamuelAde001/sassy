@@ -1,0 +1,5 @@
+@use "abstracts/colors";
+@forward "partials";
+body{
+background-color: colors.$backgroundcolor;
+}
